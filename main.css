@@ -299,7 +299,7 @@ footer h3 i {
 
   footer {
     grid-area: f;
-    width: 100%;
+    width: 70%;
     height: 20px;
     margin-top: -200px;
   }
